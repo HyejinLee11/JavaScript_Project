@@ -1,2 +1,2 @@
 # test_files
-js toy projects
+js study and toy projects
